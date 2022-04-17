@@ -1,6 +1,10 @@
 # Lua Switch Case
 C's switch case functions in lua.
 
+# Downloading
+- For normal Lua, just download the "SwitchCase.lua" into your workspace.
+- For Luau, create a ModuleScript and copy the code into it
+
 
 # Usage
 There are two ways to import the functions. I don't know why I did this. I was bored.
